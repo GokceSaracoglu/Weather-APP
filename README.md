@@ -8,4 +8,4 @@ Features
 - Simple console-based application for easy use.
 
 Requirements
--Java 8 or higher
+- Java 8 or higher
