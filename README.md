@@ -1,4 +1,5 @@
 Weather Console Application
+
 This Java application retrieves and displays weather information including temperature, humidity, and weather conditions based on a specified city, date, and time.
 
 Features
